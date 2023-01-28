@@ -1,0 +1,7 @@
+there are two types of hyperlink 
+1 - internal hyperlink
+    linking on same page
+2 - external hyperlink
+    linking on other pages or other attachments
+
+    
